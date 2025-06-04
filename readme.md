@@ -1,7 +1,3 @@
-Here is your **corrected and polished README**, with consistency, grammar, formatting, and flow improved for clarity and professionalism:
-
----
-
 # **Deepfake Detection - Final Year Project**
 
 Enhanced for modern deepfake datasets like **WildRF**, **CollabDiff**, and GenAI-generated images. Includes a **Streamlit-based frontend** for real-time deepfake prediction.
@@ -39,9 +35,11 @@ Training and Testing ( Notebook )/
 
 ### 🧬 Model Architecture
 
+![arch2 (1)](https://github.com/user-attachments/assets/99befa93-e85e-4d6c-9eec-848e3c8e3214)
+
 #### **Module 1: Global Feature Fusion**
 
-* **ResNet-50**: Extracts multi-level semantic features (F1, F2, F3)
+* **ResNet-50**: Extracts multi-level semantic features
 * **ViT**: Captures global contextual features using attention from image patches
 * Fusion through attention mechanisms
 
