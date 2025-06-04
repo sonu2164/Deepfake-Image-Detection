@@ -197,9 +197,6 @@ streamlit run app.py
 ---
 
 ## 🔮 Future Scope
-
-* 🔍 Add **Grad-CAM** visualizations for model interpretability
-* 📈 Integrate **confidence calibration** (e.g., temperature scaling)
 * 🎥 Extend support for video/audio deepfakes and streaming input
 * ☁️ Deploy using **Docker**, **Render**, or **HuggingFace Spaces**
 
